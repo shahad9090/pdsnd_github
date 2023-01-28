@@ -175,6 +175,11 @@ def user_stats(df,city):
     print("\nThis took %s seconds." % (time.time() - start_time))
     print('-'*40)
 #view raw data to user
+
+def desc(des):
+print("Hello Im Shahad Alotaibi this is my project")
+print("we are change here in this section to describe in git project ")
+
 def show_row_data(df):
     row=0
     while True:
@@ -186,7 +191,7 @@ def show_row_data(df):
         elif view_raw_data == "n":
             break
         else: #validate user input
-            print("Sorry! You entered Wrong Input, Kindly try Again!")
+            print("Sorry entered Wrong Input, Kindly try Again!")
 
 
 def main():
