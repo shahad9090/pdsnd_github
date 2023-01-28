@@ -7,7 +7,7 @@ Project created 28/1/2023
 Git project with github 
 
 ### Description
-we are repositry our python project with git 
+we are repositry our python project with CSV file  
 
 ### Files used
 we are using 3 file 
