@@ -20,6 +20,4 @@ we are using 3 file
 
 we are analyis csv file with python language 
 
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 
