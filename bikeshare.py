@@ -176,8 +176,9 @@ def user_stats(df,city):
     print('-'*40)
 #view raw data to user
 
-def desc():
-print("Hello Im Shahad Alotaibi this is my project ")
+def desc(des):
+print("Hello Im Shahad Alotaibi this is my project")
+print("we are change here in this section to describe in git project ")
 
 def show_row_data(df):
     row=0
