@@ -175,6 +175,10 @@ def user_stats(df,city):
     print("\nThis took %s seconds." % (time.time() - start_time))
     print('-'*40)
 #view raw data to user
+
+def desc():
+print("Hello Im Shahad Alotaibi this is my project ")
+
 def show_row_data(df):
     row=0
     while True:
